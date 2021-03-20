@@ -1,3 +1,3 @@
-module google.golang.org/hgfgdsy/ggl
+module github.com/hgfgdsy/ggl
 
 go 1.15
